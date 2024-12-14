@@ -1,0 +1,12 @@
+Steps to install SASS:
+
+1. Verified Node.js and npm were installed:
+   node -v
+   npm -v
+
+2. Installed the latest version of SASS using npm:
+   npm install sass
+
+3. Verified the installation of SASS:
+   npx sass --version
+   Output: 1.83.0 compiled with dart2js 3.6.0
